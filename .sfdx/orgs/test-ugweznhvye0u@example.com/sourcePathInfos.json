@@ -1,0 +1,244 @@
+[
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1543330273385,
+            "changeTime": 1543330273385,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1543330273385,
+            "changeTime": 1543330273385,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1546438743625,
+            "changeTime": 1546438743625,
+            "contentHash": "6b632b58a0ebcd5ec3714603f59138f4f084c644",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1543330273385,
+            "changeTime": 1543330273385,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1546346336942,
+            "changeTime": 1546346336942,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/objects/Student__c/Student__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/objects/Student__c/Student__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2015,
+            "modifiedTime": 1546438625469,
+            "changeTime": 1546438625469,
+            "contentHash": "49f02151ae6451dcfe900d86e348b2b10399091f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/objects/Student__c/fields/Age__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/objects/Student__c/fields/Age__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 380,
+            "modifiedTime": 1546438625469,
+            "changeTime": 1546438625469,
+            "contentHash": "91e22edef290768e4cb185b1db8c4b19671b0373",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/layouts/Student__c-Student Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/layouts/Student__c-Student Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2080,
+            "modifiedTime": 1546438625475,
+            "changeTime": 1546438625475,
+            "contentHash": "e927823c1a626fe9ed79a855b58aa2a2e7d87d8a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17320,
+            "modifiedTime": 1546438625498,
+            "changeTime": 1546438625498,
+            "contentHash": "66874b4cd311da5f355eea27e03e342e30e26439",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/profiles/Trial Customer Portal User.profile-meta.xml",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/profiles/Trial Customer Portal User.profile-meta.xml",
+            "isDirectory": false,
+            "size": 1268,
+            "modifiedTime": 1546438625500,
+            "changeTime": 1546438625500,
+            "contentHash": "5c0e9c7253d97388730326707817a563a6c9b29b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/objects/Student__c",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/objects/Student__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1546438625469,
+            "changeTime": 1546438625469,
+            "contentHash": "413027e2aa9be65cd80932b0b23c12f2d1602bee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546438625466,
+            "changeTime": 1546438625466,
+            "contentHash": "ef9c735b2ef4dd3260d7d126dfd3e191268d04b2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/objects/Student__c/fields",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/objects/Student__c/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546438625469,
+            "changeTime": 1546438625469,
+            "contentHash": "9f6ed96aae0a15d607b4d9b701a536ea2b4cc39d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1546438625475,
+            "changeTime": 1546438625475,
+            "contentHash": "68e7fb60418bb1b4fe2edcec7d1c7c07d687ae85",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1546438625500,
+            "changeTime": 1546438625500,
+            "contentHash": "6de539e406207a3affb7ad6235c1586239769bb7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/triggers/StudentTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/triggers/StudentTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1546438743627,
+            "changeTime": 1546438743627,
+            "contentHash": "12d084f642d1a7ac8faa5952932bd3dba75c8c9d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/triggers/StudentTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/triggers/StudentTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 184,
+            "modifiedTime": 1546439030581,
+            "changeTime": 1546439030581,
+            "contentHash": "15e9afc7528862eec7f280ef8a446c65278a52fa"
+        }
+    ],
+    [
+        "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/bishwambharsen/sfdx_projects/DemoProject/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1546438743629,
+            "changeTime": 1546438743629,
+            "contentHash": "2d1f6f36a43ea97a8a22e7ea8caedbe2df16b5d2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
